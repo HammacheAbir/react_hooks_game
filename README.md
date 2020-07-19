@@ -1,4 +1,4 @@
-# React_Project
+# React_hooks_game
 
 ### About
 
